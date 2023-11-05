@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Smit Kukadiya](https://yourwebsite.com/), I'm a passionate Python developer with a love for creating robust and efficient software solutions. I'm always eager to learn and contribute to exciting projects.
+I'm [Smit Kukadiya](https://smitkukadiya.live/), I'm a passionate Python developer with a love for creating robust and efficient software solutions. I'm always eager to learn and contribute to exciting projects.
 
 🚀 Here's a glimpse of what I do:
 
