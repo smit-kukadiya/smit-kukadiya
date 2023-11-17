@@ -7,7 +7,7 @@ I'm [Smit Kukadiya](https://smitkukadiya.live/), I'm a passionate Python develop
 - 💻 I'm experienced in Python and related technologies like Django and Flask.
 - 🌐 I've worked on web development projects, building dynamic websites and web applications.
 - 🤖 I have a keen interest in machine learning and data analysis using Python libraries such as NumPy, Pandas, and scikit-learn.
-<!-- - 📦 I enjoy open source contributions and have worked on [mention any notable open-source projects you've contributed to]. -->
+- 📦 I enjoy open source contributions.
 
 ## Let's Connect
 
